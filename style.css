@@ -1,0 +1,143 @@
+BODY
+{
+    FONT-SIZE: larger;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Arial Unicode MS';
+    FONT-VARIANT: small-caps;
+    TEXT-TRANSFORM: none;
+    COLOR: black;
+    PADDING-BOTTOM: 0px;
+    FONT-STYLE: italic;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+H1
+{
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Microsoft JhengHei Light';
+    FONT-VARIANT: normal;
+    TEXT-TRANSFORM: none;
+    FONT-WEIGHT: bolder;
+    COLOR: aqua;
+    PADDING-BOTTOM: 0px;
+    FONT-STYLE: italic;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+H2
+{
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Microsoft JhengHei';
+    FONT-VARIANT: normal;
+    COLOR: fuchsia;
+    PADDING-BOTTOM: 0px;
+    FONT-STYLE: normal;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+P
+{
+    FONT-FAMILY: '@Malgun Gothic Semilight';
+    TEXT-TRANSFORM: none;
+    FONT-WEIGHT: bolder;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+UL
+{
+    TEXT-DECORATION: underline;
+    FONT-FAMILY: '@Malgun Gothic Semilight';
+    TEXT-TRANSFORM: uppercase;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+OL
+{
+    FONT-SIZE: small;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Malgun Gothic Semilight';
+    COLOR: gray;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px
+}
+BODY
+{
+    FONT-FAMILY: Arial, sans-serif;
+    COLOR: #333;
+    BACKGROUND-COLOR: #f2f2f2
+}
+header
+{
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Microsoft JhengHei';
+    COLOR: #ffffff;
+    PADDING-BOTTOM: 20px;
+    PADDING-TOP: 20px;
+    PADDING-LEFT: 20px;
+    PADDING-RIGHT: 20px;
+    BACKGROUND-COLOR: #333
+}
+nav UL
+{
+    LIST-STYLE-TYPE: none
+}
+nav UL LI
+{
+    DISPLAY: inline
+}
+nav UL LI A
+{
+    TEXT-DECORATION: none;
+    COLOR: #fff;
+    MARGIN-RIGHT: 10px
+}
+section
+{
+    FONT-SIZE: larger;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Malgun Gothic Semilight';
+    PADDING-BOTTOM: 20px;
+    PADDING-TOP: 20px;
+    PADDING-LEFT: 20px;
+    MARGIN: 20px;
+    PADDING-RIGHT: 20px;
+    BACKGROUND-COLOR: #fff
+}
+footer
+{
+    FONT-SIZE: larger;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Microsoft JhengHei Light';
+    FONT-VARIANT: normal;
+    TEXT-TRANSFORM: none;
+    FONT-WEIGHT: bolder;
+    COLOR: #ffffff;
+    PADDING-BOTTOM: 10px;
+    FONT-STYLE: normal;
+    TEXT-ALIGN: center;
+    PADDING-TOP: 10px;
+    PADDING-LEFT: 10px;
+    PADDING-RIGHT: 10px;
+    BACKGROUND-COLOR: #333
+}
+nav
+{
+    TEXT-DECORATION: none;
+    FONT-FAMILY: '@Microsoft JhengHei';
+    COLOR: 
+}
